@@ -1,91 +1,188 @@
 from imageio import imread
 import numpy as np
 
-def calculate_colour_histogram(image):
-    """
-    Creates a histogram of colours of an image. The colours are encoded with a single integer
-    in base256.
-    """
-    
-    encoder = np.array([65536, 256, 1])
-    vals, cnts = np.unique(np.dot(image[:,:,:3], encoder).flat, return_counts = True)
-    cnts = cnts / cnts.sum()
-    
-    idcs = np.argsort(cnts)[::-1]
-    histo = vals[idcs], cnts[idcs]
 
-    return histo
+class ColourEncoder:
+
+    @staticmethod
+    def encode_colour(colour):
+        """
+        Converts a base256 encoded colour triplet to a single integer representation.
+        """
+    
+        encoded = colour[0] * 65536 + colour[1] * 256 + colour[2]
+    
+        return encoded
 
 
-def encode_colour(colour):
-    """
-    Converts a base256 encoded colour triplet to a single integer representation.
-    """
+    @staticmethod
+    def decode_colour(colour):
+        """
+        Converts a single base256 encoded colour triplet to a triplet of [0,255] integers
+        """
     
-    encoded = colour[0] * 65536 + colour[1] * 256 + colour[2]
-    
-    return encoded
-
-
-def decode_colour(colour):
-    """
-    Converts a single base256 encoded colour triplet to a triplet of [0,255] integers
-    """
-    
-    r = colour // 65536
-    g = (colour - r * 65536) // 256
-    b = colour % 256
+        r = colour // 65536
+        g = (colour - r * 65536) // 256
+        b = colour % 256
      
-    decoded = np.array((r, g, b))
+        decoded = np.array((r, g, b))
     
-    return decoded
+        return decoded
+        
 
+class ImageEncoder:
+    
+    @staticmethod
+    def encode(X):
+        """
+        The colours are encoded with a single integer in base256.
+        """
+        
+        if X.ndim != 3:
+            raise ValueError("Only 3D images (H,W,(R,G,B,A)) are accepted. Got: {0}".format(X.shape))
+    
+        encoder = np.array([65536, 256, 1])
+        encoded_image = np.dot(X[:,:,:3], encoder)
 
-def convert_code_to_padded_hex(x):
+        return encoded_image
     
     
-    string = hex(x)[2:]
-    if x < 16:
-        string = "0" + string
+    @staticmethod
+    def decode(X):
+        """
+        #RRGGBB 256-level image to (R,G,B) image converter
+        Parameters:
+            X (np.ndarray(height, width) of int): image
+        Returns:
+            decoded_image (np.ndarray([height, width, 3])) : (R,G,B) image
+        """
+        
+        if X.shape != 2:
+            raise ValueError("Image must be of shape 2. Got: {0}".format(X.shape))
+        
+        decoded_image = np.zeros(np.concatenate([X.shape, np.array[3]]),
+                                 dtype = np.int)
+         
+        decoded_image[:,:,0] = X // 65536
+        decoded_image[:,:,2] = X % 256
+        decoded_image[:,:,1] = (X - decoded_image[:,:,0] * 65536) // 256
+        
+        return decoded
     
-    return string
 
+class ColourHistogram:
     
-def code_to_hex(code):
+    @property
+    def colours(self):
+        return self._colours
+    
+    @property
+    def counts(self):
+        return self._counts
+    
+    @property
+    def codes(self):
+        return self._codes
+    
+    
+    def __init__(self, colours, counts, codes):
+        
+        self._colours = colours
+        
+        self._counts = counts
+        
+        self._codes = codes
+        
+            
+def calculate_colour_histogram(encoded_image):
     """
-    Converts a single integer encoded coour triplet to a hexadecimal string.
+    Creates a histogram of the colours.
     """
     
-    decoded = decode_colour(code)
-    hex_string = '#' + "".join([convert_code_to_padded_hex(x) for x in decoded])
+    if encoded_image.ndim != 2:
+        raise ValueError("Image must be 2D")
+    
+    # histogram colours
+    codes, counts = np.unique(encoded_image.flat, return_counts = True)
+    counts = counts / counts.sum()
+    
+    # sort to descending order
+    idcs = np.argsort(counts)[::-1]
+    codes = codes[idcs]
+    counts = counts[idcs]
+    
+    # convert encoded colours to RGB [0--255] triplets
+    colours = np.array([ColourEncoder.decode_colour(x) for x in codes])
+    
+    histogram = ColourHistogram(colours, counts, codes)
+    
+    return histogram
 
-    return hex_string
 
+
+
+
+class ImageCompressor:
     
-def plot_colour_histogram(histo, ax, n_show = None):
-    
-    vals, cnts = histo
-    
-    if n_show is None:
-        i_max = vals.size
-    else:
-        i_max = min(vals.size, n_show)
-    
-    xvals = np.arange(i_max)
-    yvals = cnts[:i_max]
-    
-    colours = np.array([code_to_hex(x) for x in vals[:i_max]])
-    ax.set_yscale('log')
-    ax.set_facecolor('#f0f0f0')
-    ax.set_xticks([])
-    ax.set_xlabel('Colours')
-    ax.set_ylabel('P(colour)')
-    ax.bar(xvals, yvals, color = colours)
-    
-    
-def plot_flag_with_histo(path_to_file, ax1, ax2):
-    
-    im = imread(path_to_file)
-    ax1.axis('off')
-    ax1.imshow(im)
-    plot_colour_histogram(calculate_colour_histogram(im) , ax2, n_show = 50)
+    @staticmethod  
+    def compress(X):
+        """
+        Compresses an 2D image by marking the regions of identical colour.
+        """
+           
+        compressed = []
+        
+        if image.shape != 2:
+            raise ValueError("Image must be a 2D array")
+        n_row, ncol = image.shape
+            
+        # iterator over doublets of pixels
+        gen1, gen2 = tee(X.flat)
+        
+        i_start = 0
+        for idx, (x1, x2) in enumerate(zip(gen1, gen2)):
+            if x1 != x2:
+                compressed.append([x1, i_start, idx -1])
+                i_start = idx
+        
+        # last colour
+        compressed.append([x2, i_start, idx])
+                                  
+        # calculate row and coloumn indices
+        compressed = np.array(compressed)
+        
+        # bundle colours and 
+        compressed = np.hstack(
+                [
+                    compressed[:,0],
+                    compressed[:,1] // n_col, 
+                    compressed[:,1] % n_col,
+                    compressed[:,2] // n_col, 
+                    compressed[:,3] % n_col 
+                ])
+        
+        return compressed
+                
+    @staticmethod
+    def decompress(compressed):
+        """
+        Parameters:
+            compressed (np.ndarray) :
+                each row [colour, row_start, col_start, row_end, col_end]
+        Returns:
+            image (np.ndarray[height, width, 3] of int) : decompressed image.
+        """
+        
+        # create blank image
+        image = np.zeros((compressed[-1,2], compressed[-1, 3], 3), dtype = np.int)
+        
+        for colour, row_start, col_start, row_end, col_end in compressed:
+            
+            rgb = ColourEncoder.decode(colour)
+            
+            image[row_start, col_start:, :] = rgb
+            
+            if row_end > row_start + 1:
+                image[row_start + 1 : row_end - 1, :, :] = rgb
+            
+            image[row_end, :col_end, :] = rgb
