@@ -1,8 +1,9 @@
 from imageio import imread
 import numpy as np
+import matplotlib.pyplot as plt
 
 from histo_utils import calculate_colour_histogram
-from histo_utils import ImageEncoder
+from image_utils import ImageEncoder, apply_colour_clustering_to_flag
     
     
 def plot_colour_histogram(colours, counts, ax, n_show = None):
@@ -17,14 +18,13 @@ def plot_colour_histogram(colours, counts, ax, n_show = None):
     
     
     if n_show is None:
-        i_max = colours.size
+        i_max = counts.size
     else:
-        i_max = min(colours.size, n_show)
+        i_max = min(counts.size, n_show)
     
     xvals = np.arange(i_max)
     yvals = counts[:i_max]
     
-     
     colours_ = colours / 256.0
      
     ax.set_yscale('log')
@@ -48,3 +48,96 @@ def plot_flag_with_histo(path_to_file, ax1, ax2):
     histogram = calculate_colour_histogram(encoded)
     
     plot_colour_histogram(histogram.colours, histogram.counts, ax2, n_show = 50)
+    
+    
+def plot_flag_clustered(encoded, cluster_colour_map, ax):
+    
+    reconstructed = apply_colour_clustering_to_flag(encoded, cluster_colour_map)
+    ax.imshow(ImageEncoder.decode(reconstructed))
+    ax.axis('off')
+
+
+def plot_flag_clustered_with_clusters(encoded, cluster_results, n_show = 9):
+    
+    histo  = calculate_colour_histogram(encoded)
+    
+    # set up figure
+    fig = plt.figure()#gridspec_kw = {'wspace' : 0.01, 'hspace' : 0.01})
+    
+    fig.set_size_inches(10, 10)
+    
+    n_show_ = min(len(cluster_results.n_clusters), n_show)
+    
+    n_rows = n_show_ // 3
+    if (n_show_ * 2) % 3 != 0:
+        n_rows += 1
+    n_rows *= 2
+    
+    gs = plt.GridSpec(n_rows, 3, hspace = 0.01, wspace = 0.01)
+    
+    # plot colour clusters
+    for idx, (n_clusters, labels) in enumerate(zip(cluster_results.n_clusters, 
+                                                   cluster_results.labels[:n_show_])):
+        
+        # plot clustered lofasz
+        r = (idx // 3) * 2 + 1
+        c = idx % 3
+        ax = fig.add_subplot(gs[r,c] , projection='3d')
+
+        plot_colour_cluster_results(histo.colours, 
+                                     histo.counts, 
+                                     labels, 
+                                     np.arange(n_clusters).tolist(), 
+                                     ax)
+        
+    # plot flags
+    for idx, cm in enumerate(cluster_results.colour_maps[:n_show_]):
+     
+        r = (idx // 3) * 2
+        c = idx % 3
+        ax = fig.add_subplot(gs[r, c])
+        plot_flag_clustered(encoded, cm, ax)
+        
+
+def plot_colour_cluster_results(colours, weights, labels, centres, ax, n_colours = 100):
+    
+    colours_ = colours / 256 
+    colours_ = colours_[:min(n_colours, colours_.shape[0])]
+    
+    for idx, (c, w, l) in enumerate(zip(colours_, weights, labels)):
+        
+        if not idx in centres:
+            
+            shader_colour = colours_[centres[l]]
+            ax.scatter(c[0], c[1], c[2], s = 100,  
+                       facecolors = 'none', edgecolors = shader_colour.reshape(-1,3),
+                       linewidths = 0.5)
+        
+            ax.scatter(c[0], c[1], c[2], c = c.reshape(-1,3), s = 100 * np.power(w, 1/3))
+            
+        else:
+            ax.scatter(c[0], c[1], c[2], c = c.reshape(-1,3), s = 2 * 100 * np.power(w, 1/3), marker = '+')
+        
+        ax.set_xlim((0, 1.02))
+        ax.set_ylim((0, 1.02))
+        ax.set_zlim((0, 1.02))
+        
+        ax.set_xticks([])
+        ax.set_yticks([])
+        ax.set_zticks([])
+        
+        
+def plot_cluster_scores(n_clusters, scores, elbow_position, ax, 
+                        color = 'blue', elbow_color = 'red'):
+    
+    ax.grid(True)
+    
+    for idx, (x, y) in enumerate(zip(n_clusters, scores)):
+    
+        color_ = [color, elbow_color][idx == elbow_position]
+        ax.scatter(x, y, color = color_, marker = 'o')
+        
+    ax.plot(n_clusters, scores, linestyle  = '--', color = color)
+    
+    ax.set_xlabel(r'$N_{C}$')
+    ax.set_ylabel('score')

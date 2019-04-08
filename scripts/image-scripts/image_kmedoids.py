@@ -1,3 +1,7 @@
+import numpy as np
+from scipy spatial import distance_matrix
+from scipy.spatial.distance import pdist, squareform
+
 class KMedoidsBase:
     
     @property
