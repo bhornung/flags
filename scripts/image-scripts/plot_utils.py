@@ -33,21 +33,7 @@ def plot_colour_histogram(colours, counts, ax, n_show = None):
     ax.set_xlabel('Colours')
     ax.set_ylabel('P(colour)')
     ax.bar(xvals, yvals, color = colours_)
-    
-    
-def plot_flag_with_histo(path_to_file, ax1, ax2):
-    """
-    Plots histogram along with the associated flag.
-    """
-    
-    image = imread(path_to_file)
-    ax1.axis('off')
-    ax1.imshow(image)
-    
-    encoded = ImageEncoder.encode(image)
-    histogram = calculate_colour_histogram(encoded)
-    
-    plot_colour_histogram(histogram.colours, histogram.counts, ax2, n_show = 50)
+    ax.set_yticks([0.00001, 0.0001, 0.001, 0.01, 0.1, 1])
     
     
 def plot_flag_clustered(encoded, cluster_colour_map, ax):
@@ -135,9 +121,34 @@ def plot_cluster_scores(n_clusters, scores, elbow_position, ax,
     for idx, (x, y) in enumerate(zip(n_clusters, scores)):
     
         color_ = [color, elbow_color][idx == elbow_position]
-        ax.scatter(x, y, color = color_, marker = 'o')
+        marker = ['o', 'x'][idx == elbow_position]
+        ax.scatter(x, y, color = color_, marker = marker)
         
     ax.plot(n_clusters, scores, linestyle  = '--', color = color)
     
+    ax.set_xlim((0,16))
+    ax.set_ylim(bottom = 0)
+    
     ax.set_xlabel(r'$N_{C}$')
     ax.set_ylabel('score')
+    
+    
+def plot_flag_histo_label_groups(groups_):
+
+    n_rows = (len(groups_) // 3) * 2
+    n_rows += [2, 0][len(groups_) % 3 == 0]
+    
+    fig, axes = plt.subplots(n_rows, 3, gridspec_kw = {'wspace' : 0.33, 'hspace' : 0.05})
+    fig.set_size_inches(10, 12)
+    
+    for idx, (image, histo, label) in enumerate(groups_):
+          
+        r, c = (idx // 3) * 2, idx % 3
+ 
+        axes[r,c].imshow(image)
+        axes[r,c].axis('off')
+        
+        r += 1
+        plot_colour_histogram(histo.colours, histo.counts, axes[r,c], n_show = 50)
+        
+    plt.show()

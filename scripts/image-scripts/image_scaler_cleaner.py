@@ -185,15 +185,22 @@ class ImageScalerCleaner:
         main_colours = np.array([ColourEncoder.decode(x) for x in main_colour_codes])
         satellite_colours = np.array([ColourEncoder.decode(x) for x in satellite_colour_codes])
         
-        # find closest main colour (Voronoi again)
-        idcs = np.argmin(distance_matrix(satellite_colours, main_colours), axis = 1)
-        
-        cluster_colour_map = {}
         # create cluster mapping
-        for idx in np.arange(main_colour_codes.size):
-            cluster_colour_map.update({
-                                       main_colour_codes[idx] : 
-                                       np.append(satellite_colour_codes[idcs == idx], main_colour_codes[idx])
-                                       })
+        
+        # there are no satellite colours
+        cluster_colour_map = {main_colour_codes[idx] : main_colour_codes[idx] 
+            for idx in np.arange(main_colour_codes.size)}
+        
+        # there are satellite colours
+        if satellite_colours.size != 0:
+            # find closest main colour (Voronoi again)
+            idcs = np.argmin(distance_matrix(satellite_colours, main_colours), axis = 1)
+        
+            # replace mapping
+            for idx in np.arange(main_colour_codes.size):
+                cluster_colour_map.update({
+                                           main_colour_codes[idx] : 
+                                           np.append(satellite_colour_codes[idcs == idx], main_colour_codes[idx])
+                                          })
         
         return cluster_colour_map
