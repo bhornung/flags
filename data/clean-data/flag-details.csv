@@ -1,3 +1,4 @@
+adapted	path
 afghanistan	2004	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\afghanistan.png
 albania	1912	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\albania.png
 algeria	1962	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\algeria.png
@@ -33,6 +34,7 @@ cape verde	1992	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\im
 central african republic	1958	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\central african republic.png
 chad	1959	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\chad.png
 chile	1817	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\chile.png
+china	1949	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\people's republic of china.png
 colombia	9999	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\colombia.png
 comoros	2001	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\comoros.png
 costa rica	1906	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\costa rica.png
@@ -84,7 +86,6 @@ jordan	1928	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images
 kazakhstan	1992	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\kazakhstan.png
 kenya	1963	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\kenya.png
 kiribati	1979	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\kiribati.png
-kosovo	2008	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\kosovo.png
 kuwait	1961	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\kuwait.png
 kyrgyzstan	1992	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\kyrgyzstan.png
 laos	1975	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\laos.png
@@ -123,7 +124,6 @@ new zealand	1902	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\i
 nicaragua	1908	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\nicaragua.png
 niger	1959	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\niger.png
 nigeria	1960	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\nigeria.png
-niue	9999	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\niue.png
 north korea	1948	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\north korea.png
 norway	1898	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\norway.png
 oman	1970	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\oman.png
@@ -132,12 +132,11 @@ palau	1981	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\
 panama	1914	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\panama.png
 papua new guinea	1971	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\papua new guinea.png
 paraguay	1842	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\paraguay.png
-people's republic of china	1949	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\people's republic of china.png
 peru	1825	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\peru.png
+PHILIPPINES	1946	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\philippines.png
 poland	9999	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\poland.png
 portugal	1910	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\portugal.png
 qatar	1981	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\qatar.png
-republic of china	1949	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\republic of china.png
 republic of the congo	1991	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\republic of the congo.png
 romania	1989	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\romania.png
 russia	1991	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\russia.png
@@ -161,18 +160,19 @@ solomon islands	1977	C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\
 south africa	1994	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\south africa.png
 south korea	1950	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\south korea.png
 south sudan	2011	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\south sudan.png
-spain	9999	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\spain.png
-sri lanka	1972	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\sri lanka.png
-sudan	1970	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\sudan.png
-suriname	1975	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\suriname.png
-swaziland	1968	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\swaziland.png
+SPAIN	9999	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\spain.png
+SRI LANKA	1972	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\sri lanka.png
+SUDAN	1970	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\sudan.png
+SURINAME	1975	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\suriname.png
+SWAZILAND	1968	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\swaziland.png
 sweden	1906	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\sweden.png
 switzerland	9999	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\switzerland.png
 syria	1980	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\syria.png
+taiwan	1949	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\republic of china.png
 tajikistan	1992	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\tajikistan.png
 tanzania	1964	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\tanzania.png
 thailand	1939	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\thailand.png
-timor leste	2002	C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\east timor.png
+timor-leste	2002	C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\east timor.png
 togo	1960	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\togo.png
 tonga	1970	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\tonga.png
 trinidad and tobago	1962	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\trinidad and tobago.png
@@ -189,9 +189,9 @@ uruguay	1828	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\image
 uzbekistan	1991	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\uzbekistan.png
 vanuatu	1980	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\vanuatu.png
 vatican city	1929	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\vatican city.png
-venezuela	2006	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\venezuela.png
-vietnam	1975	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\vietnam.png
-western sahara	1976	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\western sahara.png
-yemen	1990	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\yemen.png
-zambia	1964	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\zambia.png
-zimbabwe	1980	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\zimbabwe.png
+VENEZUELA	2006	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\venezuela.png
+VIETNAM	1975	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\vietnam.png
+WESTERN SAHARA	1976	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\western sahara.png
+YEMEN	1990	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\yemen.png
+ZAMBIA	1964	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\zambia.png
+ZIMBABWE	1980	C:\Users\hornu\OneDrive\Documents\repos\flags\data\clean-data\images\zimbabwe.png
