@@ -1,12 +1,12 @@
 {
     "AFGHANISTAN": {
         "adapted": 2004,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\afghanistan.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\afghanistan.png",
         "code": "AF",
         "religion": "ISLAM",
         "continent": "ASIA",
-        "founded": 9999,
-        "independent": "1823",
+        "founded": 1919,
+        "independent": 1823,
         "neighbours": [
             "CN",
             "IR",
@@ -18,12 +18,12 @@
     },
     "ALBANIA": {
         "adapted": 1912,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\albania.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\albania.png",
         "code": "AL",
         "religion": "ISLAM",
         "continent": "EUROPE",
         "founded": 1912,
-        "independent": "1944",
+        "independent": 1944,
         "neighbours": [
             "IT",
             "GR",
@@ -33,12 +33,12 @@
     },
     "ALGERIA": {
         "adapted": 1962,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\algeria.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\algeria.png",
         "code": "DZ",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 1962,
-        "independent": "1962",
+        "independent": 1962,
         "neighbours": [
             "IT",
             "ES",
@@ -52,12 +52,12 @@
     },
     "ANDORRA": {
         "adapted": 1993,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\andorra.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\andorra.png",
         "code": "AD",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1278,
-        "independent": "1944",
+        "independent": 1944,
         "neighbours": [
             "FR",
             "ES"
@@ -65,12 +65,12 @@
     },
     "ANGOLA": {
         "adapted": 2003,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\angola.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\angola.png",
         "code": "AO",
         "religion": "INDIGENOUS",
         "continent": "AFRICA",
         "founded": 1975,
-        "independent": "1975",
+        "independent": 1975,
         "neighbours": [
             "CD",
             "CG",
@@ -80,12 +80,12 @@
     },
     "ANTIGUA AND BARBUDA": {
         "adapted": 1967,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\antigua and barbuda.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\antigua and barbuda.png",
         "code": "AG",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1981,
-        "independent": "1981",
+        "independent": 1981,
         "neighbours": [
             "FR",
             "KN",
@@ -94,12 +94,12 @@
     },
     "ARGENTINA": {
         "adapted": 1812,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\argentina.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\argentina.png",
         "code": "AR",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1810,
-        "independent": "1816",
+        "independent": 1816,
         "neighbours": [
             "BO",
             "BR",
@@ -110,12 +110,12 @@
     },
     "ARMENIA": {
         "adapted": 1990,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\armenia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\armenia.png",
         "code": "AM",
         "religion": "CHR",
         "continent": "ASIA",
-        "founded": 2492,
-        "independent": "1991",
+        "founded": 1918,
+        "independent": 1991,
         "neighbours": [
             "AZ",
             "GE",
@@ -125,12 +125,12 @@
     },
     "AUSTRALIA": {
         "adapted": 1909,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\australia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\australia.png",
         "code": "AU",
         "religion": "CHR",
         "continent": "OCEANIA",
         "founded": 1901,
-        "independent": "1942",
+        "independent": 1942,
         "neighbours": [
             "TL",
             "SB",
@@ -141,12 +141,12 @@
     },
     "AUSTRIA": {
         "adapted": 1191,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\austria.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\austria.png",
         "code": "AT",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1918,
-        "independent": "1955",
+        "independent": 1955,
         "neighbours": [
             "CZ",
             "DE",
@@ -160,12 +160,12 @@
     },
     "AZERBAIJAN": {
         "adapted": 1991,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\azerbaijan.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\azerbaijan.png",
         "code": "AZ",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1918,
-        "independent": "1991",
+        "independent": 1991,
         "neighbours": [
             "KZ",
             "TM",
@@ -178,12 +178,12 @@
     },
     "BAHAMAS": {
         "adapted": 1973,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\bahamas.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\bahamas.png",
         "code": "BS",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1973,
-        "independent": "1973",
+        "independent": 1973,
         "neighbours": [
             "CU",
             "HT",
@@ -192,12 +192,12 @@
     },
     "BAHRAIN": {
         "adapted": 2002,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\bahrain.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\bahrain.png",
         "code": "BH",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1971,
-        "independent": "1971",
+        "independent": 1971,
         "neighbours": [
             "IR",
             "QA",
@@ -206,12 +206,12 @@
     },
     "BANGLADESH": {
         "adapted": 1972,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\bangladesh.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\bangladesh.png",
         "code": "BD",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1971,
-        "independent": "1971",
+        "independent": 1971,
         "neighbours": [
             "MM",
             "IN"
@@ -219,12 +219,12 @@
     },
     "BARBADOS": {
         "adapted": 1966,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\barbados.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\barbados.png",
         "code": "BB",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1966,
-        "independent": "1966",
+        "independent": 1966,
         "neighbours": [
             "GY",
             "LC",
@@ -235,12 +235,12 @@
     },
     "BELARUS": {
         "adapted": 1995,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\belarus.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\belarus.png",
         "code": "BY",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1990,
-        "independent": "1991",
+        "independent": 1991,
         "neighbours": [
             "LV",
             "LT",
@@ -251,12 +251,12 @@
     },
     "BELGIUM": {
         "adapted": 1831,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\belgium.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\belgium.png",
         "code": "BE",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1830,
-        "independent": "1945",
+        "independent": 1945,
         "neighbours": [
             "GB",
             "FR",
@@ -267,12 +267,12 @@
     },
     "BELIZE": {
         "adapted": 1981,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\belize.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\belize.png",
         "code": "BZ",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1981,
-        "independent": "1981",
+        "independent": 1981,
         "neighbours": [
             "HN",
             "GT",
@@ -281,12 +281,12 @@
     },
     "BENIN": {
         "adapted": 1990,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\benin.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\benin.png",
         "code": "BJ",
         "religion": "INDIGENOUS",
         "continent": "AFRICA",
         "founded": 1960,
-        "independent": "1960",
+        "independent": 1960,
         "neighbours": [
             "BF",
             "NE",
@@ -296,12 +296,12 @@
     },
     "BHUTAN": {
         "adapted": 1960,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\bhutan.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\bhutan.png",
         "code": "BT",
         "religion": "BUDDHIST",
         "continent": "ASIA",
         "founded": 1634,
-        "independent": "1634",
+        "independent": 1634,
         "neighbours": [
             "CN",
             "IN"
@@ -309,12 +309,12 @@
     },
     "BOLIVIA": {
         "adapted": 1851,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\bolivia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\bolivia.png",
         "code": "BO",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1825,
-        "independent": "1825",
+        "independent": 1825,
         "neighbours": [
             "AR",
             "BR",
@@ -325,12 +325,12 @@
     },
     "BOSNIA AND HERZEGOVINA": {
         "adapted": 1998,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\bosnia and herzegovina.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\bosnia and herzegovina.png",
         "code": "BA",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1377,
-        "independent": "1992",
+        "independent": 1992,
         "neighbours": [
             "HR",
             "ME",
@@ -339,12 +339,12 @@
     },
     "BOTSWANA": {
         "adapted": 1966,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\botswana.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\botswana.png",
         "code": "BW",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1966,
-        "independent": "1966",
+        "independent": 1966,
         "neighbours": [
             "NA",
             "ZA",
@@ -354,12 +354,12 @@
     },
     "BRAZIL": {
         "adapted": 1889,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\brazil.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\brazil.png",
         "code": "BR",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1822,
-        "independent": "1822",
+        "independent": 1822,
         "neighbours": [
             "AR",
             "BO",
@@ -374,12 +374,12 @@
     },
     "BRUNEI": {
         "adapted": 1984,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\brunei.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\brunei.png",
         "code": "BN",
         "religion": "ISLAM ",
         "continent": "ASIA",
         "founded": 1984,
-        "independent": "1984",
+        "independent": 1984,
         "neighbours": [
             "CN",
             "MY",
@@ -390,12 +390,12 @@
     },
     "BULGARIA": {
         "adapted": 1991,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\bulgaria.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\bulgaria.png",
         "code": "BG",
         "religion": "CHR",
         "continent": "EUROPE",
-        "founded": 9999,
-        "independent": "1908",
+        "founded": 1878,
+        "independent": 1908,
         "neighbours": [
             "GR",
             "MK",
@@ -406,12 +406,12 @@
     },
     "BURKINA FASO": {
         "adapted": 1984,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\burkina faso.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\burkina faso.png",
         "code": "BF",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 1960,
-        "independent": "1960",
+        "independent": 1960,
         "neighbours": [
             "BJ",
             "CI",
@@ -423,12 +423,12 @@
     },
     "BURUNDI": {
         "adapted": 1967,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\burundi.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\burundi.png",
         "code": "BI",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1962,
-        "independent": "1962",
+        "independent": 1962,
         "neighbours": [
             "CD",
             "RW",
@@ -437,12 +437,12 @@
     },
     "CAMBODIA": {
         "adapted": 1993,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\cambodia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\cambodia.png",
         "code": "KH",
         "religion": "BUDDHIST",
         "continent": "ASIA",
-        "founded": 9999,
-        "independent": "1953",
+        "founded": 802,
+        "independent": 1953,
         "neighbours": [
             "MY",
             "LA",
@@ -452,12 +452,12 @@
     },
     "CAMEROON": {
         "adapted": 1961,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\cameroon.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\cameroon.png",
         "code": "CM",
         "religion": "INDIGENOUS ",
         "continent": "AFRICA",
         "founded": 1960,
-        "independent": "1961",
+        "independent": 1961,
         "neighbours": [
             "CF",
             "TD",
@@ -469,24 +469,24 @@
     },
     "CANADA": {
         "adapted": 1965,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\canada.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\canada.png",
         "code": "CA",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1867,
-        "independent": "1931",
+        "independent": 1931,
         "neighbours": [
             "US"
         ]
     },
     "CAPE VERDE": {
         "adapted": 1992,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\cape verde.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\cape verde.png",
         "code": "CV",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1975,
-        "independent": "1975",
+        "independent": 1975,
         "neighbours": [
             "GM",
             "MR",
@@ -495,12 +495,12 @@
     },
     "CENTRAL AFRICAN REPUBLIC": {
         "adapted": 1958,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\central african republic.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\central african republic.png",
         "code": "CF",
         "religion": "INDIGENOUS",
         "continent": "AFRICA",
         "founded": 1960,
-        "independent": "1960",
+        "independent": 1960,
         "neighbours": [
             "CM",
             "TD",
@@ -512,12 +512,12 @@
     },
     "CHAD": {
         "adapted": 1959,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\chad.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\chad.png",
         "code": "TD",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 1960,
-        "independent": "1960",
+        "independent": 1960,
         "neighbours": [
             "CM",
             "CF",
@@ -529,12 +529,12 @@
     },
     "CHILE": {
         "adapted": 1817,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\chile.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\chile.png",
         "code": "CL",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1810,
-        "independent": "1818",
+        "independent": 1818,
         "neighbours": [
             "AR",
             "BO",
@@ -543,12 +543,12 @@
     },
     "CHINA": {
         "adapted": 1949,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\people's republic of china.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\china.png",
         "code": "CN",
         "religion": "ATHEIST",
         "continent": "ASIA",
         "founded": 1911,
-        "independent": "1949",
+        "independent": 1949,
         "neighbours": [
             "BN",
             "JP",
@@ -574,13 +574,13 @@
         ]
     },
     "COLOMBIA": {
-        "adapted": 9999,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\colombia.png",
+        "adapted": 1861,
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\colombia.png",
         "code": "CO",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1810,
-        "independent": "1819",
+        "independent": 1819,
         "neighbours": [
             "CR",
             "DO",
@@ -596,12 +596,12 @@
     },
     "COMOROS": {
         "adapted": 2001,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\comoros.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\comoros.png",
         "code": "KM",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 1975,
-        "independent": "1975",
+        "independent": 1975,
         "neighbours": [
             "MG",
             "MZ",
@@ -611,12 +611,12 @@
     },
     "COSTA RICA": {
         "adapted": 1906,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\costa rica.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\costa rica.png",
         "code": "CR",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1821,
-        "independent": "1838",
+        "independent": 1838,
         "neighbours": [
             "CO",
             "EC",
@@ -626,12 +626,12 @@
     },
     "COTE D'IVOIRE": {
         "adapted": 1960,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\cote d'ivoire.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\cote divoire.png",
         "code": "CI",
         "religion": "INDIGENOUS",
         "continent": "AFRICA",
         "founded": 1960,
-        "independent": "1960",
+        "independent": 1960,
         "neighbours": [
             "BF",
             "GH",
@@ -642,12 +642,12 @@
     },
     "CROATIA": {
         "adapted": 1991,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\croatia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\croatia.png",
         "code": "HR",
         "religion": "CHR",
         "continent": "EUROPE",
-        "founded": 9999,
-        "independent": "1991",
+        "founded": 925,
+        "independent": 1991,
         "neighbours": [
             "IT",
             "BA",
@@ -659,12 +659,12 @@
     },
     "CUBA": {
         "adapted": 1902,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\cuba.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\cuba.png",
         "code": "CU",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1902,
-        "independent": "1902",
+        "independent": 1902,
         "neighbours": [
             "BS",
             "HT",
@@ -676,12 +676,12 @@
     },
     "CYPRUS": {
         "adapted": 2004,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\cyprus.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\cyprus.png",
         "code": "CY",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1960,
-        "independent": "1960",
+        "independent": 1960,
         "neighbours": [
             "EG",
             "GR",
@@ -693,12 +693,12 @@
     },
     "CZECH REPUBLIC": {
         "adapted": 1993,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\czech republic.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\czech republic.png",
         "code": "CZ",
         "religion": "ATHEIST",
         "continent": "EUROPE",
         "founded": 9999,
-        "independent": "1993",
+        "independent": 1993,
         "neighbours": [
             "AT",
             "DE",
@@ -708,12 +708,12 @@
     },
     "DEMOCRATIC REPUBLIC OF THE CONGO": {
         "adapted": 2006,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\democratic republic of the congo.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\democratic republic of the congo.png",
         "code": "CD",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1885,
-        "independent": "1960",
+        "independent": 1960,
         "neighbours": [
             "AO",
             "BI",
@@ -728,12 +728,12 @@
     },
     "DENMARK": {
         "adapted": 1219,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\denmark.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\denmark.png",
         "code": "DK",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 9999,
-        "independent": "1945",
+        "independent": 1945,
         "neighbours": [
             "DE",
             "NO",
@@ -745,12 +745,12 @@
     },
     "DJIBOUTI": {
         "adapted": 1977,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\djibouti.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\djibouti.png",
         "code": "DJ",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 1977,
-        "independent": "1977",
+        "independent": 1977,
         "neighbours": [
             "YE",
             "ER",
@@ -760,24 +760,24 @@
     },
     "DOMINICA": {
         "adapted": 1978,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\dominica.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\dominica.png",
         "code": "DM",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1978,
-        "independent": "1978",
+        "independent": 1978,
         "neighbours": [
             "VE"
         ]
     },
     "DOMINICAN REPUBLIC": {
         "adapted": 1844,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\dominican republic.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\dominican republic.png",
         "code": "DO",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1821,
-        "independent": "1844",
+        "independent": 1844,
         "neighbours": [
             "CO",
             "VE",
@@ -786,12 +786,12 @@
     },
     "ECUADOR": {
         "adapted": 1960,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\ecuador.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\ecuador.png",
         "code": "EC",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1822,
-        "independent": "1830",
+        "independent": 1830,
         "neighbours": [
             "CR",
             "CO",
@@ -799,13 +799,13 @@
         ]
     },
     "EGYPT": {
-        "adapted": 9999,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\egypt.png",
+        "adapted": 1984,
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\egypt.png",
         "code": "EG",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 3100,
-        "independent": "1922",
+        "independent": 1922,
         "neighbours": [
             "CY",
             "GR",
@@ -818,13 +818,13 @@
         ]
     },
     "EL SALVADOR": {
-        "adapted": 9999,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\el salvador.png",
+        "adapted": 1912,
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\el salvador.png",
         "code": "SV",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1821,
-        "independent": "1898",
+        "independent": 1898,
         "neighbours": [
             "NI",
             "GT",
@@ -833,12 +833,12 @@
     },
     "EQUATORIAL GUINEA": {
         "adapted": 1979,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\equatorial guinea.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\equatorial guinea.png",
         "code": "GQ",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1968,
-        "independent": "1968",
+        "independent": 1968,
         "neighbours": [
             "NG",
             "ST",
@@ -848,12 +848,12 @@
     },
     "ERITREA": {
         "adapted": 1995,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\eritrea.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\eritrea.png",
         "code": "ER",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1137,
-        "independent": "1993",
+        "independent": 1993,
         "neighbours": [
             "SA",
             "YE",
@@ -864,12 +864,12 @@
     },
     "ESTONIA": {
         "adapted": 1990,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\estonia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\estonia.png",
         "code": "EE",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1918,
-        "independent": "1991",
+        "independent": 1991,
         "neighbours": [
             "FI",
             "LV",
@@ -878,12 +878,12 @@
     },
     "ETHIOPIA": {
         "adapted": 1996,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\ethiopia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\ethiopia.png",
         "code": "ET",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 9999,
-        "independent": "1941",
+        "independent": 1941,
         "neighbours": [
             "DJ",
             "ER",
@@ -895,12 +895,12 @@
     },
     "FIJI": {
         "adapted": 1970,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\fiji.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\fiji.png",
         "code": "FJ",
         "religion": "CHR",
         "continent": "OCEANIA",
         "founded": 1970,
-        "independent": "1970",
+        "independent": 1970,
         "neighbours": [
             "SB",
             "TO",
@@ -909,13 +909,13 @@
         ]
     },
     "FINLAND": {
-        "adapted": 9999,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\finland.png",
+        "adapted": 1918,
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\finland.png",
         "code": "FI",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1917,
-        "independent": "1918",
+        "independent": 1918,
         "neighbours": [
             "EE",
             "NO",
@@ -925,12 +925,12 @@
     },
     "FRANCE": {
         "adapted": 1789,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\france.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\france.png",
         "code": "FR",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 9999,
-        "independent": "1944",
+        "independent": 1944,
         "neighbours": [
             "GB",
             "AD",
@@ -945,12 +945,12 @@
     },
     "GABON": {
         "adapted": 1960,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\gabon.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\gabon.png",
         "code": "GA",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1960,
-        "independent": "1960",
+        "independent": 1960,
         "neighbours": [
             "ST",
             "CM",
@@ -960,12 +960,12 @@
     },
     "GAMBIA": {
         "adapted": 1965,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\gambia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\gambia.png",
         "code": "GM",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 1965,
-        "independent": "1965",
+        "independent": 1965,
         "neighbours": [
             "CV",
             "SN"
@@ -973,12 +973,12 @@
     },
     "GEORGIA": {
         "adapted": 2004,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\georgia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\georgia.png",
         "code": "GE",
         "religion": "CHR",
         "continent": "ASIA",
         "founded": 1300,
-        "independent": "1991",
+        "independent": 1991,
         "neighbours": [
             "AM",
             "AZ",
@@ -988,12 +988,12 @@
     },
     "GERMANY": {
         "adapted": 1933,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\germany.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\germany.png",
         "code": "DE",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1871,
-        "independent": "1991",
+        "independent": 1991,
         "neighbours": [
             "SE",
             "GB",
@@ -1010,12 +1010,12 @@
     },
     "GHANA": {
         "adapted": 1957,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\ghana.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\ghana.png",
         "code": "GH",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1957,
-        "independent": "1957",
+        "independent": 1957,
         "neighbours": [
             "BF",
             "CI",
@@ -1024,12 +1024,12 @@
     },
     "GREECE": {
         "adapted": 1822,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\greece.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\greece.png",
         "code": "GR",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1830,
-        "independent": "1945",
+        "independent": 1945,
         "neighbours": [
             "CY",
             "EG",
@@ -1043,12 +1043,12 @@
     },
     "GRENADA": {
         "adapted": 1974,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\grenada.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\grenada.png",
         "code": "GD",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1974,
-        "independent": "1974",
+        "independent": 1974,
         "neighbours": [
             "VC",
             "TT",
@@ -1057,12 +1057,12 @@
     },
     "GUATEMALA": {
         "adapted": 1996,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\guatemala.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\guatemala.png",
         "code": "GT",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1821,
-        "independent": "1838",
+        "independent": 1838,
         "neighbours": [
             "BZ",
             "SV",
@@ -1072,12 +1072,12 @@
     },
     "GUINEA": {
         "adapted": 1958,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\guinea.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\guinea.png",
         "code": "GN",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 1958,
-        "independent": "1958",
+        "independent": 1958,
         "neighbours": [
             "CI",
             "GW",
@@ -1089,12 +1089,12 @@
     },
     "GUINEA-BISSAU": {
         "adapted": 1973,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\guinea-bissau.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\guinea-bissau.png",
         "code": "GW",
         "religion": "INDIGENOUS",
         "continent": "AFRICA",
         "founded": 1973,
-        "independent": "1974",
+        "independent": 1974,
         "neighbours": [
             "GN",
             "SN"
@@ -1102,12 +1102,12 @@
     },
     "GUYANA": {
         "adapted": 1966,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\guyana.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\guyana.png",
         "code": "GY",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1966,
-        "independent": "1966",
+        "independent": 1966,
         "neighbours": [
             "BB",
             "TT",
@@ -1118,12 +1118,12 @@
     },
     "HAITI": {
         "adapted": 1958,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\haiti.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\haiti.png",
         "code": "HT",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1804,
-        "independent": "1804",
+        "independent": 1804,
         "neighbours": [
             "BS",
             "CO",
@@ -1133,13 +1133,13 @@
         ]
     },
     "HONDURAS": {
-        "adapted": 9999,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\honduras.png",
+        "adapted": 1949,
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\honduras.png",
         "code": "HN",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1821,
-        "independent": "1838",
+        "independent": 1838,
         "neighbours": [
             "BZ",
             "CU",
@@ -1152,12 +1152,12 @@
     },
     "HUNGARY": {
         "adapted": 1848,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\hungary.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\hungary.png",
         "code": "HU",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 9999,
-        "independent": "1918",
+        "independent": 1918,
         "neighbours": [
             "AT",
             "HR",
@@ -1170,24 +1170,24 @@
     },
     "ICELAND": {
         "adapted": 1944,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\iceland.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\iceland.png",
         "code": "IS",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 9999,
-        "independent": "1918",
+        "independent": 1918,
         "neighbours": [
             "DK"
         ]
     },
     "INDIA": {
         "adapted": 1947,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\india.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\india.png",
         "code": "IN",
         "religion": "HINDU",
         "continent": "ASIA",
         "founded": 2000,
-        "independent": "1947",
+        "independent": 1947,
         "neighbours": [
             "ID",
             "MV",
@@ -1203,12 +1203,12 @@
     },
     "INDONESIA": {
         "adapted": 1945,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\indonesia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\indonesia.png",
         "code": "ID",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1945,
-        "independent": "1949",
+        "independent": 1949,
         "neighbours": [
             "AU",
             "CN",
@@ -1226,12 +1226,12 @@
     },
     "IRAN": {
         "adapted": 1979,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\iran.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\iran.png",
         "code": "IR",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 3200,
-        "independent": "1925",
+        "independent": 1925,
         "neighbours": [
             "BH",
             "KW",
@@ -1250,12 +1250,12 @@
     },
     "IRAQ": {
         "adapted": 1991,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\iraq.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\iraq.png",
         "code": "IQ",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1926,
-        "independent": "1926",
+        "independent": 1926,
         "neighbours": [
             "IR",
             "JO",
@@ -1267,24 +1267,24 @@
     },
     "IRELAND": {
         "adapted": 1920,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\ireland.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\ireland.png",
         "code": "IE",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1171,
-        "independent": "1931",
+        "independent": 1931,
         "neighbours": [
             "GB"
         ]
     },
     "ISRAEL": {
         "adapted": 1948,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\israel.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\israel.png",
         "code": "IL",
         "religion": "JUDAISM",
         "continent": "ASIA",
         "founded": 1300,
-        "independent": "1948",
+        "independent": 1948,
         "neighbours": [
             "CY",
             "EG",
@@ -1295,12 +1295,12 @@
     },
     "ITALY": {
         "adapted": 1946,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\italy.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\italy.png",
         "code": "IT",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1861,
-        "independent": "1861",
+        "independent": 1861,
         "neighbours": [
             "AL",
             "DZ",
@@ -1321,12 +1321,12 @@
     },
     "JAMAICA": {
         "adapted": 1962,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\jamaica.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\jamaica.png",
         "code": "JM",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1962,
-        "independent": "1962",
+        "independent": 1962,
         "neighbours": [
             "CO",
             "CU",
@@ -1337,12 +1337,12 @@
     },
     "JAPAN": {
         "adapted": 1870,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\japan.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\japan.png",
         "code": "JP",
         "religion": "SHINTOIST",
         "continent": "ASIA",
         "founded": 9999,
-        "independent": "1952",
+        "independent": 1952,
         "neighbours": [
             "CN",
             "KR",
@@ -1353,12 +1353,12 @@
     },
     "JORDAN": {
         "adapted": 1928,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\jordan.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\jordan.png",
         "code": "JO",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1946,
-        "independent": "1958",
+        "independent": 1958,
         "neighbours": [
             "EG",
             "IQ",
@@ -1369,12 +1369,12 @@
     },
     "KAZAKHSTAN": {
         "adapted": 1992,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\kazakhstan.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\kazakhstan.png",
         "code": "KZ",
         "religion": "ISLAM",
         "continent": "TRANSCONTINENTAL - ASIA/EUROPE",
         "founded": 1991,
-        "independent": "1991",
+        "independent": 1991,
         "neighbours": [
             "AZ",
             "CN",
@@ -1386,12 +1386,12 @@
     },
     "KENYA": {
         "adapted": 1963,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\kenya.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\kenya.png",
         "code": "KE",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1963,
-        "independent": "1963",
+        "independent": 1963,
         "neighbours": [
             "ET",
             "SO",
@@ -1402,12 +1402,12 @@
     },
     "KIRIBATI": {
         "adapted": 1979,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\kiribati.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\kiribati.png",
         "code": "KI",
         "religion": "CHR",
         "continent": "OCEANIA",
         "founded": 1979,
-        "independent": "1979",
+        "independent": 1979,
         "neighbours": [
             "MH",
             "NR",
@@ -1416,12 +1416,12 @@
     },
     "KUWAIT": {
         "adapted": 1961,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\kuwait.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\kuwait.png",
         "code": "KW",
         "religion": "ISLAM",
         "continent": "ASIA",
-        "founded": 1961,
-        "independent": "9999",
+        "founded": 1752,
+        "independent": 1961,
         "neighbours": [
             "IR",
             "IQ",
@@ -1430,12 +1430,12 @@
     },
     "KYRGYZSTAN": {
         "adapted": 1992,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\kyrgyzstan.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\kyrgyzstan.png",
         "code": "KG",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1991,
-        "independent": "1991",
+        "independent": 1991,
         "neighbours": [
             "CN",
             "KZ",
@@ -1445,12 +1445,12 @@
     },
     "LAOS": {
         "adapted": 1975,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\laos.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\laos.png",
         "code": "LA",
         "religion": "BUDDHIST",
         "continent": "ASIA",
         "founded": 1354,
-        "independent": "1953",
+        "independent": 1953,
         "neighbours": [
             "MM",
             "KH",
@@ -1461,12 +1461,12 @@
     },
     "LATVIA": {
         "adapted": 1991,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\latvia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\latvia.png",
         "code": "LV",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1918,
-        "independent": "1990",
+        "independent": 1990,
         "neighbours": [
             "SE",
             "BY",
@@ -1477,12 +1477,12 @@
     },
     "LEBANON": {
         "adapted": 1943,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\lebanon.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\lebanon.png",
         "code": "LB",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1943,
-        "independent": "1946",
+        "independent": 1946,
         "neighbours": [
             "CY",
             "IL",
@@ -1491,24 +1491,24 @@
     },
     "LESOTHO": {
         "adapted": 2006,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\lesotho.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\lesotho.png",
         "code": "LS",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1822,
-        "independent": "1966",
+        "independent": 1966,
         "neighbours": [
             "ZA"
         ]
     },
     "LIBERIA": {
         "adapted": 1847,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\liberia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\liberia.png",
         "code": "LR",
         "religion": "traditional",
         "continent": "AFRICA",
         "founded": 1847,
-        "independent": "1847",
+        "independent": 1847,
         "neighbours": [
             "GN",
             "CI",
@@ -1517,12 +1517,12 @@
     },
     "LIBYA": {
         "adapted": 2011,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\libya.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\libya.png",
         "code": "LY",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 1951,
-        "independent": "1951",
+        "independent": 1951,
         "neighbours": [
             "GR",
             "IT",
@@ -1537,12 +1537,12 @@
     },
     "LIECHTENSTEIN": {
         "adapted": 1937,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\liechtenstein.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\liechtenstein.png",
         "code": "LI",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1719,
-        "independent": "1719",
+        "independent": 1719,
         "neighbours": [
             "AT",
             "CH"
@@ -1550,12 +1550,12 @@
     },
     "LITHUANIA": {
         "adapted": 1989,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\lithuania.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\lithuania.png",
         "code": "LT",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1253,
-        "independent": "1990",
+        "independent": 1990,
         "neighbours": [
             "SE",
             "BY",
@@ -1566,12 +1566,12 @@
     },
     "LUXEMBOURG": {
         "adapted": 1972,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\luxembourg.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\luxembourg.png",
         "code": "LU",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1815,
-        "independent": "1945",
+        "independent": 1945,
         "neighbours": [
             "BE",
             "FR",
@@ -1580,12 +1580,12 @@
     },
     "MACEDONIA": {
         "adapted": 1995,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\macedonia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\macedonia.png",
         "code": "MK",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1991,
-        "independent": "1991",
+        "independent": 1991,
         "neighbours": [
             "AL",
             "BG",
@@ -1594,13 +1594,13 @@
         ]
     },
     "MADAGASCAR": {
-        "adapted": 9999,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\madagascar.png",
+        "adapted": 1958,
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\madagascar.png",
         "code": "MG",
         "religion": "INDIGENOUS",
         "continent": "AFRICA",
         "founded": 1787,
-        "independent": "1960",
+        "independent": 1960,
         "neighbours": [
             "KM",
             "MU",
@@ -1610,12 +1610,12 @@
     },
     "MALAWI": {
         "adapted": 1964,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\malawi.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\malawi.png",
         "code": "MW",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1964,
-        "independent": "1964",
+        "independent": 1964,
         "neighbours": [
             "MZ",
             "TZ",
@@ -1624,12 +1624,12 @@
     },
     "MALAYSIA": {
         "adapted": 1997,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\malaysia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\malaysia.png",
         "code": "MY",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1957,
-        "independent": "1957",
+        "independent": 1957,
         "neighbours": [
             "KH",
             "PH",
@@ -1643,12 +1643,12 @@
     },
     "MALDIVES": {
         "adapted": 1965,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\maldives.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\maldives.png",
         "code": "MV",
         "religion": "ISLAM ",
         "continent": "ASIA",
         "founded": 1140,
-        "independent": "1965",
+        "independent": 1965,
         "neighbours": [
             "IN",
             "LK"
@@ -1656,12 +1656,12 @@
     },
     "MALI": {
         "adapted": 1961,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\mali.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\mali.png",
         "code": "ML",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 1230,
-        "independent": "1960",
+        "independent": 1960,
         "neighbours": [
             "DZ",
             "BF",
@@ -1674,12 +1674,12 @@
     },
     "MALTA": {
         "adapted": 1964,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\malta.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\malta.png",
         "code": "MT",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1964,
-        "independent": "1964",
+        "independent": 1964,
         "neighbours": [
             "IT",
             "LY",
@@ -1687,13 +1687,13 @@
         ]
     },
     "MARSHALL ISLANDS": {
-        "adapted": 9999,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\marshall islands.png",
+        "adapted": 1979,
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\marshall islands.png",
         "code": "MH",
         "religion": "CHR",
         "continent": "OCEANIA",
         "founded": 1986,
-        "independent": "1986",
+        "independent": 1986,
         "neighbours": [
             "KI",
             "NR"
@@ -1701,12 +1701,12 @@
     },
     "MAURITANIA": {
         "adapted": 1959,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\mauritania.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\mauritania.png",
         "code": "MR",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 1960,
-        "independent": "1960",
+        "independent": 1960,
         "neighbours": [
             "CV",
             "DZ",
@@ -1718,25 +1718,25 @@
     },
     "MAURITIUS": {
         "adapted": 1968,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\mauritius.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\mauritius.png",
         "code": "MU",
         "religion": "HINDU",
         "continent": "AFRICA",
         "founded": 1968,
-        "independent": "1968",
+        "independent": 1968,
         "neighbours": [
             "MG",
             "SC"
         ]
     },
     "MEXICO": {
-        "adapted": 9999,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\mexico.png",
+        "adapted": 1968,
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\mexico.png",
         "code": "MX",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1810,
-        "independent": "1864",
+        "independent": 1864,
         "neighbours": [
             "CU",
             "HN",
@@ -1747,12 +1747,12 @@
     },
     "MICRONESIA": {
         "adapted": 1979,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\micronesia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\micronesia.png",
         "code": "FM",
         "religion": "CHR",
-        "continent": "1986",
+        "continent": "OCEANIA",
         "founded": 1986,
-        "independent": "UNITED STATES",
+        "independent": 1986,
         "neighbours": [
             "MH",
             "PW",
@@ -1761,12 +1761,12 @@
     },
     "MOLDOVA": {
         "adapted": 2010,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\moldova.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\moldova.png",
         "code": "MD",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1991,
-        "independent": "1991",
+        "independent": 1991,
         "neighbours": [
             "RO",
             "UA"
@@ -1774,24 +1774,24 @@
     },
     "MONACO": {
         "adapted": 1945,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\monaco.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\monaco.png",
         "code": "MC",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1297,
-        "independent": "1945",
+        "independent": 1945,
         "neighbours": [
             "FR"
         ]
     },
     "MONGOLIA": {
         "adapted": 1992,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\mongolia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\mongolia.png",
         "code": "MN",
         "religion": "BUDDHIST",
         "continent": "ASIA",
         "founded": 9999,
-        "independent": "1921",
+        "independent": 1921,
         "neighbours": [
             "CN",
             "RU"
@@ -1799,12 +1799,12 @@
     },
     "MONTENEGRO": {
         "adapted": 2006,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\montenegro.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\montenegro.png",
         "code": "ME",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1042,
-        "independent": "9999",
+        "independent": 2006,
         "neighbours": [
             "IT",
             "AL",
@@ -1815,12 +1815,12 @@
     },
     "MOROCCO": {
         "adapted": 1956,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\morocco.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\morocco.png",
         "code": "MA",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 9999,
-        "independent": "1956",
+        "independent": 1956,
         "neighbours": [
             "PT",
             "DZ",
@@ -1831,12 +1831,12 @@
     },
     "MOZAMBIQUE": {
         "adapted": 1983,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\mozambique.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\mozambique.png",
         "code": "MZ",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 1975,
-        "independent": "1975",
+        "independent": 1975,
         "neighbours": [
             "KM",
             "MG",
@@ -1850,12 +1850,12 @@
     },
     "MYANMAR": {
         "adapted": 2010,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\myanmar.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\myanmar.png",
         "code": "MM",
         "religion": "BUDDHIST",
         "continent": "ASIA",
         "founded": 9999,
-        "independent": "1948",
+        "independent": 1948,
         "neighbours": [
             "BD",
             "CN",
@@ -1866,12 +1866,12 @@
     },
     "NAMIBIA": {
         "adapted": 1960,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\namibia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\namibia.png",
         "code": "NA",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1990,
-        "independent": "1990",
+        "independent": 1990,
         "neighbours": [
             "AO",
             "BW",
@@ -1881,12 +1881,12 @@
     },
     "NAURU": {
         "adapted": 1976,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\nauru.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\nauru.png",
         "code": "NR",
         "religion": "CHR",
         "continent": "OCEANIA",
         "founded": 1968,
-        "independent": "1968",
+        "independent": 1968,
         "neighbours": [
             "KI",
             "MH",
@@ -1895,12 +1895,12 @@
     },
     "NEPAL": {
         "adapted": 1962,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\nepal.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\nepal.png",
         "code": "NP",
         "religion": "Hindu",
         "continent": "ASIA",
         "founded": 1768,
-        "independent": "1768",
+        "independent": 1768,
         "neighbours": [
             "CN",
             "IN"
@@ -1908,12 +1908,12 @@
     },
     "NETHERLANDS": {
         "adapted": 1572,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\netherlands.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\netherlands.png",
         "code": "NL",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1581,
-        "independent": "1945",
+        "independent": 1945,
         "neighbours": [
             "GB",
             "BE",
@@ -1922,12 +1922,12 @@
     },
     "NEW ZEALAND": {
         "adapted": 1902,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\new zealand.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\new zealand.png",
         "code": "NZ",
         "religion": "CHR",
         "continent": "OCEANIA",
         "founded": 1907,
-        "independent": "1947",
+        "independent": 1947,
         "neighbours": [
             "AU",
             "KI",
@@ -1937,12 +1937,12 @@
     },
     "NICARAGUA": {
         "adapted": 1908,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\nicaragua.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\nicaragua.png",
         "code": "NI",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1821,
-        "independent": "1821",
+        "independent": 1821,
         "neighbours": [
             "CO",
             "CR",
@@ -1954,12 +1954,12 @@
     },
     "NIGER": {
         "adapted": 1959,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\niger.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\niger.png",
         "code": "NE",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 1960,
-        "independent": "1960",
+        "independent": 1960,
         "neighbours": [
             "DZ",
             "BJ",
@@ -1972,12 +1972,12 @@
     },
     "NIGERIA": {
         "adapted": 1960,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\nigeria.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\nigeria.png",
         "code": "NG",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 1960,
-        "independent": "1960",
+        "independent": 1960,
         "neighbours": [
             "GQ",
             "BJ",
@@ -1988,12 +1988,12 @@
     },
     "NORTH KOREA": {
         "adapted": 1948,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\north korea.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\north korea.png",
         "code": "KP",
         "religion": "ATHEIST",
         "continent": "ASIA",
         "founded": 2333,
-        "independent": "1948",
+        "independent": 1948,
         "neighbours": [
             "CN",
             "KR",
@@ -2002,12 +2002,12 @@
     },
     "NORWAY": {
         "adapted": 1898,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\norway.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\norway.png",
         "code": "NO",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 9999,
-        "independent": "1945",
+        "independent": 1945,
         "neighbours": [
             "DK",
             "GB",
@@ -2018,12 +2018,12 @@
     },
     "OMAN": {
         "adapted": 1970,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\oman.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\oman.png",
         "code": "OM",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 9999,
-        "independent": "1743",
+        "independent": 1743,
         "neighbours": [
             "IR",
             "PK",
@@ -2034,12 +2034,12 @@
     },
     "PAKISTAN": {
         "adapted": 1947,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\pakistan.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\pakistan.png",
         "code": "PK",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1947,
-        "independent": "1956",
+        "independent": 1956,
         "neighbours": [
             "OM",
             "AF",
@@ -2050,12 +2050,12 @@
     },
     "PALAU": {
         "adapted": 1981,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\palau.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\palau.png",
         "code": "PW",
         "religion": "CHR",
         "continent": "OCEANIA",
         "founded": 1994,
-        "independent": "1994",
+        "independent": 1994,
         "neighbours": [
             "ID",
             "FM",
@@ -2064,12 +2064,12 @@
     },
     "PANAMA": {
         "adapted": 1914,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\panama.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\panama.png",
         "code": "PA",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1821,
-        "independent": "1903",
+        "independent": 1903,
         "neighbours": [
             "NI",
             "CO",
@@ -2078,12 +2078,12 @@
     },
     "PAPUA NEW GUINEA": {
         "adapted": 1971,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\papua new guinea.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\papua new guinea.png",
         "code": "PG",
         "religion": "CHR",
         "continent": "OCEANIA",
         "founded": 1975,
-        "independent": "1975",
+        "independent": 1975,
         "neighbours": [
             "AU",
             "FM",
@@ -2093,12 +2093,12 @@
     },
     "PARAGUAY": {
         "adapted": 1842,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\paraguay.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\paraguay.png",
         "code": "PY",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1811,
-        "independent": "1876",
+        "independent": 1876,
         "neighbours": [
             "AR",
             "BO",
@@ -2107,12 +2107,12 @@
     },
     "PERU": {
         "adapted": 1825,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\peru.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\peru.png",
         "code": "PE",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1821,
-        "independent": "1839",
+        "independent": 1839,
         "neighbours": [
             "BO",
             "BR",
@@ -2123,12 +2123,12 @@
     },
     "PHILIPPINES": {
         "adapted": 1946,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\philippines.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\philippines.png",
         "code": "PH",
         "religion": "CHR",
         "continent": "ASIA",
         "founded": 1402,
-        "independent": "1946",
+        "independent": 1946,
         "neighbours": [
             "BN",
             "CN",
@@ -2141,13 +2141,13 @@
         ]
     },
     "POLAND": {
-        "adapted": 9999,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\poland.png",
+        "adapted": 1980,
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\poland.png",
         "code": "PL",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 9999,
-        "independent": "1945",
+        "independent": 1945,
         "neighbours": [
             "DK",
             "SE",
@@ -2162,12 +2162,12 @@
     },
     "PORTUGAL": {
         "adapted": 1910,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\portugal.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\portugal.png",
         "code": "PT",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1139,
-        "independent": "1139",
+        "independent": 1139,
         "neighbours": [
             "MA",
             "ES"
@@ -2175,12 +2175,12 @@
     },
     "QATAR": {
         "adapted": 1981,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\qatar.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\qatar.png",
         "code": "QA",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1971,
-        "independent": "1971",
+        "independent": 1971,
         "neighbours": [
             "BH",
             "IR",
@@ -2190,12 +2190,12 @@
     },
     "REPUBLIC OF THE CONGO": {
         "adapted": 1991,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\republic of the congo.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\republic of the congo.png",
         "code": "CG",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1960,
-        "independent": "1960",
+        "independent": 1960,
         "neighbours": [
             "AO",
             "CM",
@@ -2206,12 +2206,12 @@
     },
     "ROMANIA": {
         "adapted": 1989,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\romania.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\romania.png",
         "code": "RO",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1878,
-        "independent": "1878",
+        "independent": 1878,
         "neighbours": [
             "RU",
             "BG",
@@ -2223,12 +2223,12 @@
     },
     "RUSSIA": {
         "adapted": 1991,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\russia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\russia.png",
         "code": "RU",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 9999,
-        "independent": "1991",
+        "independent": 1991,
         "neighbours": [
             "JP",
             "KR",
@@ -2254,12 +2254,12 @@
     },
     "RWANDA": {
         "adapted": 2002,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\rwanda.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\rwanda.png",
         "code": "RW",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1962,
-        "independent": "1962",
+        "independent": 1962,
         "neighbours": [
             "BI",
             "CD",
@@ -2269,12 +2269,12 @@
     },
     "SAINT KITTS AND NEVIS": {
         "adapted": 1983,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\saint kitts and nevis.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\saint kitts and nevis.png",
         "code": "KN",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1983,
-        "independent": "1983",
+        "independent": 1983,
         "neighbours": [
             "AG",
             "VE"
@@ -2282,12 +2282,12 @@
     },
     "SAINT LUCIA": {
         "adapted": 1979,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\saint lucia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\saint lucia.png",
         "code": "LC",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1979,
-        "independent": "1979",
+        "independent": 1979,
         "neighbours": [
             "BB",
             "VC",
@@ -2296,12 +2296,12 @@
     },
     "SAINT VINCENT AND THE GRENADINES": {
         "adapted": 1979,
-        "path": "C:\\\\Users\\\\hornu\\\\OneDrive\\\\Documents\\\\repos\\\\flags\\\\data\\\\clean-data\\\\images\\\\saint vincent and the grenadines.png",
+        "path": "C:\\\\Users\\\\hornu\\\\OneDrive\\\\Documents\\\\repos\\\\flags\\\\data\\\\clean-data\\\\images\\png\\\\saint vincent and the grenadines.png",
         "code": "VC",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1979,
-        "independent": "1979",
+        "independent": 1979,
         "neighbours": [
             "BB",
             "GD",
@@ -2312,36 +2312,36 @@
     },
     "SAMOA": {
         "adapted": 1962,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\samoa.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\samoa.png",
         "code": "WS",
         "religion": "CHR",
         "continent": "OCEANIA",
         "founded": 1962,
-        "independent": "1962",
+        "independent": 1962,
         "neighbours": [
             "TO"
         ]
     },
     "SAN MARINO": {
-        "adapted": 9999,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\san marino.png",
+        "adapted": 1862,
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\san marino.png",
         "code": "SM",
         "religion": "CHR",
         "continent": "EUROPE",
-        "founded": 9999,
-        "independent": "9999",
+        "founded": 1600,
+        "independent": 1600,
         "neighbours": [
             "IT"
         ]
     },
     "SAO TOME AND PRINCIPE": {
         "adapted": 1975,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\sao tome and principe.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\sao tome and principe.png",
         "code": "ST",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1975,
-        "independent": "1975",
+        "independent": 1975,
         "neighbours": [
             "GQ",
             "GA",
@@ -2349,13 +2349,13 @@
         ]
     },
     "SAUDI ARABIA": {
-        "adapted": 9999,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\saudi arabia.png",
+        "adapted": 1973,
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\saudi arabia.png",
         "code": "SA",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1744,
-        "independent": "9999",
+        "independent": 1932,
         "neighbours": [
             "BH",
             "EG",
@@ -2373,12 +2373,12 @@
     },
     "SENEGAL": {
         "adapted": 1960,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\senegal.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\senegal.png",
         "code": "SN",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 1960,
-        "independent": "1960",
+        "independent": 1960,
         "neighbours": [
             "CV",
             "GM",
@@ -2390,12 +2390,12 @@
     },
     "SERBIA": {
         "adapted": 2006,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\serbia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\serbia.png",
         "code": "RS",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 9999,
-        "independent": "2006",
+        "independent": 2006,
         "neighbours": [
             "BA",
             "BG",
@@ -2408,12 +2408,12 @@
     },
     "SEYCHELLES": {
         "adapted": 1996,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\seychelles.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\seychelles.png",
         "code": "SC",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1976,
-        "independent": "1976",
+        "independent": 1976,
         "neighbours": [
             "CO",
             "MG",
@@ -2423,12 +2423,12 @@
     },
     "SIERRA LEONE": {
         "adapted": 1961,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\sierra leone.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\sierra leone.png",
         "code": "SL",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 1961,
-        "independent": "1961",
+        "independent": 1961,
         "neighbours": [
             "GN",
             "LR"
@@ -2436,12 +2436,12 @@
     },
     "SINGAPORE": {
         "adapted": 1959,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\singapore.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\singapore.png",
         "code": "SG",
         "religion": "CHR",
         "continent": "ASIA",
         "founded": 1963,
-        "independent": "1965",
+        "independent": 1965,
         "neighbours": [
             "ID",
             "MY"
@@ -2449,12 +2449,12 @@
     },
     "SLOVAKIA": {
         "adapted": 1993,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\slovakia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\slovakia.png",
         "code": "SK",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1939,
-        "independent": "1993",
+        "independent": 1993,
         "neighbours": [
             "AT",
             "CZ",
@@ -2465,12 +2465,12 @@
     },
     "SLOVENIA": {
         "adapted": 1993,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\slovenia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\slovenia.png",
         "code": "SI",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1991,
-        "independent": "1991",
+        "independent": 1991,
         "neighbours": [
             "AT",
             "HR",
@@ -2480,12 +2480,12 @@
     },
     "SOMALIA": {
         "adapted": 1954,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\somalia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\somalia.png",
         "code": "SO",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 9999,
-        "independent": "1960",
+        "independent": 1960,
         "neighbours": [
             "YE",
             "DJ",
@@ -2495,12 +2495,12 @@
     },
     "SOLOMON ISLANDS": {
         "adapted": 1977,
-        "path": "C:\\\\Users\\\\hornu\\\\OneDrive\\\\Documents\\\\repos\\\\flags\\\\data\\\\clean-data\\\\images\\\\solomon islands.png",
+        "path": "C:\\\\Users\\\\hornu\\\\OneDrive\\\\Documents\\\\repos\\\\flags\\\\data\\\\clean-data\\\\images\\png\\\\solomon islands.png",
         "code": "SB",
         "religion": "CHR",
         "continent": "OCEANIA",
         "founded": 1978,
-        "independent": "1978",
+        "independent": 1978,
         "neighbours": [
             "FJ",
             "PG",
@@ -2509,12 +2509,12 @@
     },
     "SOUTH AFRICA": {
         "adapted": 1994,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\south africa.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\south africa.png",
         "code": "ZA",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1910,
-        "independent": "1910",
+        "independent": 1910,
         "neighbours": [
             "BW",
             "LS",
@@ -2526,12 +2526,12 @@
     },
     "SOUTH KOREA": {
         "adapted": 1950,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\south korea.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\south korea.png",
         "code": "KR",
         "religion": "ATHEIST",
         "continent": "ASIA",
         "founded": 1948,
-        "independent": "1948",
+        "independent": 1948,
         "neighbours": [
             "CN",
             "JP",
@@ -2541,12 +2541,12 @@
     },
     "SOUTH SUDAN": {
         "adapted": 2011,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\south sudan.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\south sudan.png",
         "code": "SS",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 2011,
-        "independent": "2011",
+        "independent": 2011,
         "neighbours": [
             "CF",
             "CD",
@@ -2557,13 +2557,13 @@
         ]
     },
     "SPAIN": {
-        "adapted": 9999,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\spain.png",
+        "adapted": 1981,
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\spain.png",
         "code": "ES",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1516,
-        "independent": "1516",
+        "independent": 1516,
         "neighbours": [
             "DZ",
             "IT",
@@ -2575,12 +2575,12 @@
     },
     "SRI LANKA": {
         "adapted": 1972,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\sri lanka.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\sri lanka.png",
         "code": "LK",
         "religion": "BUDDHIST",
         "continent": "ASIA",
         "founded": 9999,
-        "independent": "1948",
+        "independent": 1948,
         "neighbours": [
             "IN",
             "MV"
@@ -2588,12 +2588,12 @@
     },
     "SUDAN": {
         "adapted": 1970,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\sudan.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\sudan.png",
         "code": "SD",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 1070,
-        "independent": "1956",
+        "independent": 1956,
         "neighbours": [
             "SA",
             "CF",
@@ -2607,12 +2607,12 @@
     },
     "SURINAME": {
         "adapted": 1975,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\suriname.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\suriname.png",
         "code": "SR",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1975,
-        "independent": "1975",
+        "independent": 1975,
         "neighbours": [
             "BR",
             "GY"
@@ -2620,12 +2620,12 @@
     },
     "SWAZILAND": {
         "adapted": 1968,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\swaziland.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\swaziland.png",
         "code": "SZ",
         "religion": "Zionist",
         "continent": "AFRICA",
         "founded": 1968,
-        "independent": "1968",
+        "independent": 1968,
         "neighbours": [
             "MZ",
             "ZA"
@@ -2633,12 +2633,12 @@
     },
     "SWEDEN": {
         "adapted": 1906,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\sweden.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\sweden.png",
         "code": "SE",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1397,
-        "independent": "1523",
+        "independent": 1523,
         "neighbours": [
             "DK",
             "EE",
@@ -2652,13 +2652,13 @@
         ]
     },
     "SWITZERLAND": {
-        "adapted": 9999,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\switzerland.png",
+        "adapted": 1841,
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\switzerland.png",
         "code": "CH",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1291,
-        "independent": "1815",
+        "independent": 1815,
         "neighbours": [
             "AT",
             "FR",
@@ -2669,12 +2669,12 @@
     },
     "SYRIA": {
         "adapted": 1980,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\syria.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\syria.png",
         "code": "SY",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1946,
-        "independent": "1961",
+        "independent": 1961,
         "neighbours": [
             "CY",
             "IQ",
@@ -2686,12 +2686,12 @@
     },
     "TAIWAN": {
         "adapted": 1949,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\republic of china.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\taiwan.png",
         "code": "TW",
         "religion": "BUDDHIST",
         "continent": "ASIA",
         "founded": 1948,
-        "independent": "1948",
+        "independent": 1948,
         "neighbours": [
             "BN",
             "CN",
@@ -2704,12 +2704,12 @@
     },
     "TAJIKISTAN": {
         "adapted": 1992,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\tajikistan.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\tajikistan.png",
         "code": "TJ",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1991,
-        "independent": "1991",
+        "independent": 1991,
         "neighbours": [
             "AF",
             "CN",
@@ -2719,12 +2719,12 @@
     },
     "TANZANIA": {
         "adapted": 1964,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\tanzania.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\tanzania.png",
         "code": "TZ",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1961,
-        "independent": "1961",
+        "independent": 1961,
         "neighbours": [
             "KM",
             "SC",
@@ -2740,12 +2740,12 @@
     },
     "THAILAND": {
         "adapted": 1939,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\thailand.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\thailand.png",
         "code": "TH",
         "religion": "BUDDHIST",
         "continent": "ASIA",
         "founded": 1238,
-        "independent": "1945",
+        "independent": 1945,
         "neighbours": [
             "IN",
             "ID",
@@ -2758,12 +2758,12 @@
     },
     "TIMOR-LESTE": {
         "adapted": 2002,
-        "path": "C:\\\\Users\\\\hornu\\\\OneDrive\\\\Documents\\\\repos\\\\flags\\\\data\\\\clean-data\\\\images\\\\east timor.png",
+        "path": "C:\\\\Users\\\\hornu\\\\OneDrive\\\\Documents\\\\repos\\\\flags\\\\data\\\\clean-data\\\\images\\png\\\\timor leste.png",
         "code": "TL",
         "religion": "CHR",
         "continent": "ASIA",
         "founded": 1975,
-        "independent": "2002",
+        "independent": 2002,
         "neighbours": [
             "AU",
             "ID"
@@ -2771,12 +2771,12 @@
     },
     "TOGO": {
         "adapted": 1960,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\togo.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\togo.png",
         "code": "TG",
         "religion": "INDIGENOUS",
         "continent": "AFRICA",
         "founded": 1960,
-        "independent": "1960",
+        "independent": 1960,
         "neighbours": [
             "BJ",
             "BF",
@@ -2785,12 +2785,12 @@
     },
     "TONGA": {
         "adapted": 1970,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\tonga.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\tonga.png",
         "code": "TO",
         "religion": "CHR",
         "continent": "OCEANIA",
         "founded": 1845,
-        "independent": "1970",
+        "independent": 1970,
         "neighbours": [
             "FJ",
             "WS"
@@ -2798,12 +2798,12 @@
     },
     "TRINIDAD AND TOBAGO": {
         "adapted": 1962,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\trinidad and tobago.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\trinidad and tobago.png",
         "code": "TT",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1962,
-        "independent": "1962",
+        "independent": 1962,
         "neighbours": [
             "BB",
             "GD",
@@ -2814,12 +2814,12 @@
     },
     "TUNISIA": {
         "adapted": 1956,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\tunisia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\tunisia.png",
         "code": "TN",
         "religion": "ISLAM",
         "continent": "AFRICA",
         "founded": 1956,
-        "independent": "1956",
+        "independent": 1956,
         "neighbours": [
             "IT",
             "MT",
@@ -2829,12 +2829,12 @@
     },
     "TURKEY": {
         "adapted": 1793,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\turkey.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\turkey.png",
         "code": "TR",
         "religion": "ISLAM",
         "continent": "ASIA AND EUROPE",
         "founded": 1299,
-        "independent": "1923",
+        "independent": 1923,
         "neighbours": [
             "CY",
             "EG",
@@ -2851,13 +2851,13 @@
         ]
     },
     "TURKMENISTAN": {
-        "adapted": 9999,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\turkmenistan.png",
+        "adapted": 2001,
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\turkmenistan.png",
         "code": "TM",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1991,
-        "independent": "1991",
+        "independent": 1991,
         "neighbours": [
             "AZ",
             "AF",
@@ -2868,12 +2868,12 @@
     },
     "TUVALU": {
         "adapted": 1978,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\tuvalu.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\tuvalu.png",
         "code": "TV",
         "religion": "CHR",
         "continent": "OCEANIA",
         "founded": 1978,
-        "independent": "1978",
+        "independent": 1978,
         "neighbours": [
             "FJ",
             "KI"
@@ -2881,12 +2881,12 @@
     },
     "UGANDA": {
         "adapted": 1962,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\uganda.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\uganda.png",
         "code": "UG",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1962,
-        "independent": "1962",
+        "independent": 1962,
         "neighbours": [
             "CD",
             "KE",
@@ -2897,12 +2897,12 @@
     },
     "UKRAINE": {
         "adapted": 1992,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\ukraine.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\ukraine.png",
         "code": "UA",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 9999,
-        "independent": "1991",
+        "independent": 1991,
         "neighbours": [
             "TR",
             "BY",
@@ -2916,12 +2916,12 @@
     },
     "UNITED ARAB EMIRATES": {
         "adapted": 1971,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\united arab emirates.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\united arab emirates.png",
         "code": "AE",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1971,
-        "independent": "1971",
+        "independent": 1971,
         "neighbours": [
             "IR",
             "QA",
@@ -2931,12 +2931,12 @@
     },
     "UNITED KINGDOM": {
         "adapted": 1801,
-        "path": "C:\\\\Users\\\\hornu\\\\OneDrive\\\\Documents\\\\repos\\\\flags\\\\data\\\\clean-data\\\\images\\\\united kingdom.png",
+        "path": "C:\\\\Users\\\\hornu\\\\OneDrive\\\\Documents\\\\repos\\\\flags\\\\data\\\\clean-data\\\\images\\png\\\\united kingdom.png",
         "code": "GB",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 1707,
-        "independent": "1801",
+        "independent": 1801,
         "neighbours": [
             "BE",
             "DK",
@@ -2949,12 +2949,12 @@
     },
     "UNITED STATES OF AMERICA": {
         "adapted": 1960,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\united states.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\united states.png",
         "code": "US",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1776,
-        "independent": "1781",
+        "independent": 1781,
         "neighbours": [
             "BS",
             "CU",
@@ -2965,12 +2965,12 @@
     },
     "URUGUAY": {
         "adapted": 1828,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\uruguay.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\uruguay.png",
         "code": "UY",
         "religion": "Roman CHR",
         "continent": "THE AMERICAS",
         "founded": 1815,
-        "independent": "1828",
+        "independent": 1828,
         "neighbours": [
             "AR",
             "BR"
@@ -2978,12 +2978,12 @@
     },
     "UZBEKISTAN": {
         "adapted": 1991,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\uzbekistan.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\uzbekistan.png",
         "code": "UZ",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1924,
-        "independent": "1991",
+        "independent": 1991,
         "neighbours": [
             "AF",
             "KZ",
@@ -2994,12 +2994,12 @@
     },
     "VANUATU": {
         "adapted": 1980,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\vanuatu.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\vanuatu.png",
         "code": "VU",
         "religion": "CHR",
         "continent": "OCEANIA",
         "founded": 1980,
-        "independent": "1980",
+        "independent": 1980,
         "neighbours": [
             "SB",
             "FJ"
@@ -3007,24 +3007,24 @@
     },
     "VATICAN CITY": {
         "adapted": 1929,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\vatican city.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\vatican city.png",
         "code": "VA",
         "religion": "CHR",
         "continent": "EUROPE",
         "founded": 9999,
-        "independent": "1929",
+        "independent": 1929,
         "neighbours": [
             "IT"
         ]
     },
     "VENEZUELA": {
         "adapted": 2006,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\venezuela.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\venezuela.png",
         "code": "VE",
         "religion": "CHR",
         "continent": "THE AMERICAS",
         "founded": 1811,
-        "independent": "1830",
+        "independent": 1830,
         "neighbours": [
             "BB",
             "DM",
@@ -3041,12 +3041,12 @@
     },
     "VIETNAM": {
         "adapted": 1975,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\vietnam.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\vietnam.png",
         "code": "VN",
         "religion": "ATHEIST",
         "continent": "ASIA",
         "founded": 2879,
-        "independent": "1976",
+        "independent": 1976,
         "neighbours": [
             "BN",
             "ID",
@@ -3061,12 +3061,12 @@
     },
     "WESTERN SAHARA": {
         "adapted": 1976,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\western sahara.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\western sahara.png",
         "code": "EH",
         "religion": "ISLAM",
-        "continent": "9999",
+        "continent": "AFRICA",
         "founded": 9999,
-        "independent": "(NONE)",
+        "independent": 9999,
         "neighbours": [
             "MA",
             "MR"
@@ -3074,12 +3074,12 @@
     },
     "YEMEN": {
         "adapted": 1990,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\yemen.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\yemen.png",
         "code": "YE",
         "religion": "ISLAM",
         "continent": "ASIA",
         "founded": 1918,
-        "independent": "1967",
+        "independent": 1967,
         "neighbours": [
             "DJ",
             "ER",
@@ -3090,12 +3090,12 @@
     },
     "ZAMBIA": {
         "adapted": 1964,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\zambia.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\zambia.png",
         "code": "ZM",
         "religion": "CHR",
         "continent": "AFRICA",
         "founded": 1964,
-        "independent": "1964",
+        "independent": 1964,
         "neighbours": [
             "AO",
             "BW",
@@ -3109,12 +3109,12 @@
     },
     "ZIMBABWE": {
         "adapted": 1980,
-        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\zimbabwe.png",
+        "path": "C:\\Users\\hornu\\OneDrive\\Documents\\repos\\flags\\data\\clean-data\\images\\png\\zimbabwe.png",
         "code": "ZW",
         "religion": "SYNCRETIC",
         "continent": "AFRICA",
         "founded": 1965,
-        "independent": "1980",
+        "independent": 1980,
         "neighbours": [
             "BW",
             "MZ",
